@@ -54,7 +54,7 @@ body {
 
 .main-header {
   background-color: rgba(0, 0, 0, 0.6);
-  background-image: url("Images/Header Background.jpg");
+  background-image: url("https://github.com/albart67/boutique-stackblitz1/blob/master/Images/Header%20Background.jpg?raw=true");
   background-blend-mode: multiply;
   background-size: cover;
   padding-bottom: 30px;
